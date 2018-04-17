@@ -1,1 +1,1 @@
-linux is my friend 
+php is my friend 
